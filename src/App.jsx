@@ -12,7 +12,7 @@ import Connect from './components/Connect'
 function App() {
   return (
     <>
-      <div id='main'><Navbar/></div>
+      <Navbar/>
       <div className="overflow-hidden" style={{backgroundImage: `url(${bgimage})`, backgroundSize:'cover',backgroundRepeat:'no-repeat' }}>
       <DetailsCard/>
       <About/>

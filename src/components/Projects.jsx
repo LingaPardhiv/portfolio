@@ -4,7 +4,7 @@ const Projects = () => {
   return (
     <div>
       <div className='mt-6 text-white'>
-      <h2 id="projects" className='font-bold text-2xl w-125 text-end'>Projects</h2>
+      <h2 id="projects" className='font-bold text-2xl w-full text-center justify-center'>Projects</h2>
       <div className="flex justify-center flex-col items-center">
         <div className='h-55 w-170 bg-zinc-900 rounded-2xl p-5 mt-5 gap-2'>
           <div className='ml-2 font-bold'>BLOCKCHAIN-BASED DIGITAL IDENTITY VERIFICATION SYSTEM FOR E-COMMERCE</div>
