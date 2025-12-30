@@ -4,7 +4,7 @@ const Skills = () => {
   return (
     <div className='mt-6 text-white'>
       <h2 className='font-bold text-2xl w-full text-center justify-center'>Skills</h2>
-      <div className='font-bold text-md mt-4 flex gap-4 justify-center'>
+      <div className='font-bold text-md mt-6 flex gap-4 justify-center'>
         <div className='rounded-4xl border border-black px-4 py-1 bg-black flex  justify-center gap-1'>
         <div className=''>
         <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="25" height="25" viewBox="0 0 48 48">
