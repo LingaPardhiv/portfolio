@@ -7,7 +7,7 @@ const Experience = () => {
       <div className='mt-6 text-white'>
       <h2 className='font-bold text-2xl w-full text-center justify-center'>Experience</h2>
       <div className="flex justify-center">
-        <div className='md:w-170  bg-zinc-900 rounded-2xl p-5 mt-5 '>
+        <div className='md:w-170 bg-zinc-900 rounded-2xl p-5 mt-5 '>
         <div className='flex items-start gap-4'>
         <img src={tgglogo} height={50} width={50} alt="" />
         <div className='flex flex-col'>

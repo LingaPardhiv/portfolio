@@ -5,10 +5,10 @@ const About = () => {
       <div className='flex mt-5 flex-col gap-4 text-white'>
         <h2 id="about" className="font-bold text-2xl w-full text-center justify-center">About</h2>
         <div className='flex justify-center items-center px-10'>
-          <p className='font-bold text-center md:w-1/2'>I am a Front-End Developer with a strong focus on building clean, responsive, and user-friendly web experiences. I’ve completed my Computer Science Engineering degree and enjoy crafting interfaces that blend creativity with performance.</p>
+          <p className='font-bold text-center md:w-2xl'>I am a Front-End Developer with a strong focus on building clean, responsive, and user-friendly web experiences. I’ve completed my Computer Science Engineering degree and enjoy crafting interfaces that blend creativity with performance.</p>
         </div>
         <div className='flex justify-center items-center px-10'>
-          <p className='font-bold text-center md:w-1/2'>I am passionate about modern web technologies, constantly exploring new tools, and turning ideas into polished digital products. Always eager to learn, grow, and collaborate with others to build meaningful projects.</p>
+          <p className='font-bold text-center md:w-2xl'>I am passionate about modern web technologies, constantly exploring new tools, and turning ideas into polished digital products. Always eager to learn, grow, and collaborate with others to build meaningful projects.</p>
         </div>
       </div>
   )
